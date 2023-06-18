@@ -1,0 +1,1154 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="BNT1" tvg-name="BNT1" tvg-shift="" radio="" tvg-logo="bnt1.png" group-title="",БНТ 1
+
+https://usp.sof.btv.bg/2021/07/14/61294281/61294281.ism/61294281.mpd
+
+#EXTINF:-1 tvg-id="BNT2" tvg-name="BNT2" tvg-shift="" radio="" tvg-logo="bnt2.png" group-title="",БНТ 2
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28208
+
+#EXTINF:-1 tvg-id="BNT3" tvg-name="BNT3" tvg-shift="" radio="" tvg-logo="bnt3.png" group-title="",БНТ 3
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28209
+
+#EXTINF:-1 tvg-id="BNT4" tvg-name="BNT4" tvg-shift="" radio="" tvg-logo="bnt4.png" group-title="",BNT 4
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28210
+
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-shift="" radio="" tvg-logo="novatv.png" group-title="",Nova TV
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11145
+
+#EXTINF:-1 tvg-id="NovaNews" tvg-name="NovaNews" tvg-shift="" radio="" tvg-logo="novanews.png" group-title="",Nova News
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11141
+
+#EXTINF:-1 tvg-id="bTV" tvg-name="bTV" tvg-shift="" radio="" tvg-logo="btv.png" group-title="",bTV
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11124
+
+#EXTINF:-1 tvg-id="bTVAction" tvg-name="bTVAction" tvg-shift="" radio="" tvg-logo="btvaction.png" group-title="",bTV Action
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11121
+
+#EXTINF:-1 tvg-id="bTVCinema" tvg-name="bTVCinema" tvg-shift="" radio="" tvg-logo="btvcinema.png" group-title="",bTV Cinema
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11122
+
+#EXTINF:-1 tvg-id="bTVComedy" tvg-name="bTVComedy" tvg-shift="" radio="" tvg-logo="btvcomedy.png" group-title="",bTV Comedy
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11123
+
+#EXTINF:-1 tvg-id="bTVLady" tvg-name="bTVLady" tvg-shift="" radio="" tvg-logo="btvlady.png" group-title="",bTV Lady
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11125
+
+#EXTINF:-1 tvg-id="bTVi" tvg-name="bTVi" tvg-shift="" radio="" tvg-logo="btvi.png" group-title="",bTV "Интернешънъл"
+
+https://hls.btv.bg.sof.cmestatic.com/61183589/livestream-0/playlist.m3u8?eyJtZWQiOjYxMTgzNTg5LCJsaWMiOiJhN2QxMjg2MTA1MGIzOTJhMWE2NDI4NDNjNzgxMGZjNSIsInByb2QiOjI0MTk4LCJkZXYiOiIyMzliMzUwY2RmZDVhYjU5MTQ4MDdmOTQ4MjgyNTlmZiIsImFpZCI6IiJ9
+
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24kitchen" tvg-shift="" radio="" tvg-logo="24kitchen.png" group-title="",24kitchen
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44164
+
+#EXTINF:-1 tvg-id="78TV" tvg-name="78TV" tvg-shift="" radio="" tvg-logo="78tv.png" group-title="",78TV
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/37956
+
+#EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-shift="" radio="" tvg-logo="amc.png" group-title="",AMC Balkan English
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44184
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-shift="" radio="" tvg-logo="axn.png" group-title="",AXN
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44185
+
+#EXTINF:-1 tvg-id="AXNBlack" tvg-name="AXNBlack" tvg-shift="" radio="" tvg-logo="axnblack.png" group-title="",AXN Black
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44186
+
+#EXTINF:-1 tvg-id="AXNWhite" tvg-name="AXNWhite" tvg-shift="" radio="" tvg-logo="axnwhite.png" group-title="",AXN White
+
+
+
+#EXTINF:-1 tvg-id="agroTV" tvg-name="agroTV" tvg-shift="" radio="" tvg-logo="agrotv.png" group-title="",Агро ТВ
+
+
+
+#EXTINF:-1 tvg-id="Alfa" tvg-name="Alfa" tvg-shift="" radio="" tvg-logo="alfa.png" group-title="",Алфа ТВ (Атака)
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44183
+
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-shift="" radio="" tvg-logo="animalplanet.png" group-title="",Animal Planet Europe
+
+
+
+#EXTINF:-1 tvg-id="ActionPlus" tvg-name="ActionPlus" tvg-shift="" radio="" tvg-logo="actionplus_hd.png" group-title="",Action+ HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11115
+
+#EXTINF:-1 tvg-id="actionbox" tvg-name="actionbox" tvg-shift="" radio="" tvg-logo="" group-title="",action.box
+
+
+
+#EXTINF:-1 tvg-id="ArenaSport1" tvg-name="ArenaSport1" tvg-shift="" radio="" tvg-logo="arenasport1.png" group-title="",Arena Sport 1 SRB
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/3182
+
+#EXTINF:-1 tvg-id="ArenaSport2" tvg-name="ArenaSport2" tvg-shift="" radio="" tvg-logo="arenasport2.png" group-title="",Arena Sport 2 SRB
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/3183
+
+#EXTINF:-1 tvg-id="ArenaSport3" tvg-name="ArenaSport3" tvg-shift="" radio="" tvg-logo="arenasport3.png" group-title="",Arena Sport 3 SRB
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/3184
+
+#EXTINF:-1 tvg-id="ArenaSport4" tvg-name="ArenaSport4" tvg-shift="" radio="" tvg-logo="arenasport4.png" group-title="",Arena Sport 4 SRB
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/3185
+
+#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="ArenaSport5" tvg-shift="" radio="" tvg-logo="arenasport5.png" group-title="",Arena Sport 5 SRB
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/3186
+
+#EXTINF:-1 tvg-id="AlphaRadio" tvg-name="AlphaRadio" tvg-shift="" radio="" tvg-logo="alpharadio.png" group-title="",Алфа Радио
+
+
+
+#EXTINF:-1 tvg-id="BulgariaOnAir" tvg-name="BulgariaOnAir" tvg-shift="" radio="" tvg-logo="bulgariaonair.png" group-title="",Bulgaria On Air
+
+
+
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-shift="" radio="" tvg-logo="bloomberg.png" group-title="",Bloomberg TV Bulgaria
+
+
+
+#EXTINF:-1 tvg-id="BoxTV" tvg-name="BoxTV" tvg-shift="" radio="" tvg-logo="boxtv.png" group-title="",Box TV
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11120
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="boomerang.png" group-title="",Boomerang
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44188
+
+#EXTINF:-1 tvg-id="BGMusicChannel" tvg-name="BGMusicChannel" tvg-shift="" radio="" tvg-logo="bgmusicchannel.png" group-title="",BG Music Channel
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44187
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-shift="" radio="" tvg-logo="babytv.png" group-title="",Baby TV
+
+
+
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="Balkanika" tvg-shift="" radio="" tvg-logo="balkanika.png" group-title="",Balkanika
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/2024
+
+#EXTINF:-1 tvg-id="BrazzersTVEurope" tvg-name="BrazzersTVEurope" tvg-shift="" radio="" tvg-logo="brazzerstveurope.png" group-title="",Brazzers TV Europe
+
+
+
+#EXTINF:-1 tvg-id="BGDNES" tvg-name="BGDNES" tvg-shift="" radio="" tvg-logo="bgdnestv.png" group-title="",BG DNES TV
+
+
+
+#EXTINF:-1 tvg-id="BSTV" tvg-name="BSTV" tvg-shift="" radio="" tvg-logo="bstv.png" group-title="",БСТВ (БСП)
+
+
+
+#EXTINF:-1 tvg-id="Bulgaria24" tvg-name="Bulgaria24" tvg-shift="" radio="" tvg-logo="bulgaria24.png" group-title="",България 24 (ВМРО)
+
+
+
+#EXTINF:-1 tvg-id="BNRHorizont" tvg-name="BNRHorizont" tvg-shift="" radio="" tvg-logo="bnrhorizont.png" group-title="",БНР Програма Хоризонт
+
+
+
+#EXTINF:-1 tvg-id="BNRHristoBotev" tvg-name="BNRHristoBotev" tvg-shift="" radio="" tvg-logo="bnrhristobotev.png" group-title="",БНР Програма Христо Ботев
+
+
+
+#EXTINF:-1 tvg-id="BNRShumen" tvg-name="BNRShumen" tvg-shift="" radio="" tvg-logo="bnrshumen.png" group-title="",БНР Радио Шумен
+
+
+
+#EXTINF:-1 tvg-id="BGRadio" tvg-name="BGRadio" tvg-shift="" radio="" tvg-logo="bgradio.png" group-title="",БГ Радио
+
+
+
+#EXTINF:-1 tvg-id="BNP" tvg-name="BNP" tvg-shift="" radio="" tvg-logo="bnptv.png" group-title="",БНП ТВ
+
+
+
+#EXTINF:-1 tvg-id="b1bbox" tvg-name="b1bbox" tvg-shift="" radio="" tvg-logo="b1bbox.png" group-title="",b1b.box
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11148
+
+#EXTINF:-1 tvg-id="BGTOPMUSIC" tvg-name="BGTOPMUSIC" tvg-shift="" radio="" tvg-logo="bgtopmusic.png" group-title="",BG TOP MUSIC
+
+
+
+#EXTINF:-1 tvg-id="BULGARE" tvg-name="BULGARE" tvg-shift="" radio="" tvg-logo="bulgare.png" group-title="",Национална Телевизия БЪЛГАРЕ
+
+https://bulgare.cdn.netbadgers.com/bg050/bg051/bg051.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-shift="" radio="" tvg-logo="cartoonnetwork.png" group-title="",Cartoon Network
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11146
+
+#EXTINF:-1 tvg-id="City" tvg-name="City" tvg-shift="" radio="" tvg-logo="city.png" group-title="",City ТВ
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11135
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-shift="" radio="" tvg-logo="cinemax.png" group-title="",Cinemax
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44166
+
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="Cinemax2" tvg-shift="" radio="" tvg-logo="cinemax2.png" group-title="",Cinemax 2
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44167
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-shift="" radio="" tvg-logo="cnn.png" group-title="",CNN
+
+
+
+#EXTINF:-1 tvg-id="CBSReality" tvg-name="CBSReality" tvg-shift="" radio="" tvg-logo="cbsreality.png" group-title="",CBS Reality
+
+
+
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-shift="" radio="" tvg-logo="ci.png" group-title="",Crime and Investigation
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44189
+
+#EXTINF:-1 tvg-id="ComedyPlus" tvg-name="ComedyPlus" tvg-shift="" radio="" tvg-logo="comedyplus_hd.png" group-title="",Comedy+ HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11127
+
+#EXTINF:-1 tvg-id="CinemaPlus" tvg-name="CinemaPlus" tvg-shift="" radio="" tvg-logo="cinemaplus_hd.png" group-title="",Cinema+ HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11126
+
+#EXTINF:-1 tvg-id="comedybox" tvg-name="comedybox" tvg-shift="" radio="" tvg-logo="" group-title="",comedy.box
+
+
+
+#EXTINF:-1 tvg-id="cinebox" tvg-name="cinebox" tvg-shift="" radio="" tvg-logo="" group-title="",cine.box
+
+
+
+#EXTINF:-1 tvg-id="ClassicFM" tvg-name="ClassicFM" tvg-shift="" radio="" tvg-logo="classicfm.png" group-title="",Classic FM
+
+
+
+#EXTINF:-1 tvg-id="ClubMTV" tvg-name="ClubMTV" tvg-shift="" radio="" tvg-logo="clubmtv.png" group-title="",Club MTV
+
+
+
+#EXTINF:-1 tvg-id="CINEMANIA" tvg-name="CINEMANIA" tvg-shift="" radio="" tvg-logo="cinemania.png" group-title="",CINEMANIA
+
+
+
+#EXTINF:-1 tvg-id="CodeFashion" tvg-name="CodeFashion" tvg-shift="" radio="" tvg-logo="codefashion.png" group-title="",Code Fashion
+
+
+
+#EXTINF:-1 tvg-id="Diema" tvg-name="Diema" tvg-shift="" radio="" tvg-logo="diema.png" group-title="",Diema
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11132
+
+#EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DiemaFamily" tvg-shift="" radio="" tvg-logo="diemafamily.png" group-title="",Диема Family
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11129
+
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="DiemaSport" tvg-shift="" radio="" tvg-logo="diemasport.png" group-title="",Diema Sport
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11131
+
+#EXTINF:-1 tvg-id="DiemaSport2" tvg-name="DiemaSport2" tvg-shift="" radio="" tvg-logo="diemasport2.png" group-title="",Diema Sport 2
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11130
+
+#EXTINF:-1 tvg-id="DiemaSport3" tvg-name="DiemaSport3" tvg-shift="" radio="" tvg-logo="diemasport3.png" group-title="",Diema Sport 3
+
+
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-shift="" radio="" tvg-logo="discovery.png" group-title="",Discovery Channel Central Europe
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/27129
+
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="DiscoveryScience" tvg-shift="" radio="" tvg-logo="discoveryscience.png" group-title="",Discovery Science Europe
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44168
+
+#EXTINF:-1 tvg-id="DuckTV" tvg-name="DuckTV" tvg-shift="" radio="" tvg-logo="ducktv.png" group-title="",Duck TV
+
+
+
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-shift="" radio="" tvg-logo="disney.png" group-title="",Disney
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44681
+
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="DisneyJunior" tvg-shift="" radio="" tvg-logo="disneyjunior.png" group-title="",Disney Junior
+
+
+
+#EXTINF:-1 tvg-id="DocuBox" tvg-name="DocuBox" tvg-shift="" radio="" tvg-logo="docubox.png" group-title="",DocuBox
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44169
+
+#EXTINF:-1 tvg-id="DaVinciLearning" tvg-name="DaVinciLearning" tvg-shift="" radio="" tvg-logo="davincilearning.png" group-title="",Da Vinci Learning
+
+
+
+#EXTINF:-1 tvg-id="DSTV" tvg-name="DSTV" tvg-shift="" radio="" tvg-logo="dstv.png" group-title="",DSTV
+
+
+
+#EXTINF:-1 tvg-id="DMSat" tvg-name="DMSat" tvg-shift="" radio="" tvg-logo="dmsat.png" group-title="",DM Sat
+
+
+
+#EXTINF:-1 tvg-id="DeluxeLoungeHD" tvg-name="DeluxeLoungeHD" tvg-shift="" radio="" tvg-logo="deluxeloungehd.png" group-title="",Deluxe Lounge HD
+
+
+
+#EXTINF:-1 tvg-id="DestinationBG" tvg-name="DestinationBG" tvg-shift="" radio="" tvg-logo="destination_bg_hd.png" group-title="",Destination BG
+
+
+
+#EXTINF:-1 tvg-id="TVDarts" tvg-name="TVDarts" tvg-shift="" radio="" tvg-logo="tvdarts.png" group-title="",ТВ DАРТС (Благоевград)
+
+
+
+#EXTINF:-1 tvg-id="DarikRadioTV" tvg-name="DarikRadioTV" tvg-shift="" radio="" tvg-logo="darikradiotv.png" group-title="",Дарик Радио и ТВ
+
+
+
+#EXTINF:-1 tvg-id="DUSKTV" tvg-name="DUSKTV" tvg-shift="" radio="" tvg-logo="dusktv.png" group-title="",DUSK TV
+
+
+
+#EXTINF:-1 tvg-id="DorcelTVEurope" tvg-name="DorcelTVEurope" tvg-shift="" radio="" tvg-logo="dorceltv.png" group-title="",Dorcel TV Europe
+
+
+
+#EXTINF:-1 tvg-id="Eurocom" tvg-name="Eurocom" tvg-shift="" radio="" tvg-logo="eurocom.png" group-title="",Евроком
+
+
+
+#EXTINF:-1 tvg-id="EKids" tvg-name="EKids" tvg-shift="" radio="" tvg-logo="ekids.png" group-title="",Евроком Kids
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44684
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-shift="" radio="" tvg-logo="eurosport1.png" group-title="",Eurosport 1
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28204
+
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-shift="" radio="" tvg-logo="eurosport2.png" group-title="",Eurosport 2
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28205
+
+#EXTINF:-1 tvg-id="EnglishClubTV" tvg-name="EnglishClubTV" tvg-shift="" radio="" tvg-logo="englishclubtv.png" group-title="",English Club TV
+
+
+
+#EXTINF:-1 tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-shift="" radio="" tvg-logo="edgesport.png" group-title="",A1 EDGESport
+
+
+
+#EXTINF:-1 tvg-id="EpicDrama" tvg-name="EpicDrama" tvg-shift="" radio="" tvg-logo="epicdrama.png" group-title="",Viasat Epic Drama
+
+
+
+#EXTINF:-1 tvg-id="EuroFolk" tvg-name="EuroFolk" tvg-shift="" radio="" tvg-logo="eurofolktv.png" group-title="",EuroFolk TV
+
+
+
+#EXTINF:-1 tvg-id="EroxHD" tvg-name="EroxHD" tvg-shift="" radio="" tvg-logo="erox.png" group-title="",Erox HD
+
+
+
+#EXTINF:-1 tvg-id="tveurope" tvg-name="tveurope" tvg-shift="" radio="" tvg-logo="euronewsbg.png" group-title="",ТВ Европа
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28206
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" tvg-shift="" radio="" tvg-logo="euronews.png" group-title="",EuroNews
+
+
+
+#EXTINF:-1 tvg-id="RadioENERGY" tvg-name="RadioENERGY" tvg-shift="" radio="" tvg-logo="energy.png" group-title="",Радио ENERGY
+
+
+
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel" tvg-shift="" radio="" tvg-logo="eurochannel.png" group-title="",Eurochannel
+
+
+
+#EXTINF:-1 tvg-id="FolklorTV" tvg-name="FolklorTV" tvg-shift="" radio="" tvg-logo="folklortv.png" group-title="",Фолклор ТВ
+
+
+
+#EXTINF:-1 tvg-id="FENTV" tvg-name="FENTV" tvg-shift="" radio="" tvg-logo="fentv.png" group-title="",Фен ТВ
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11134
+
+#EXTINF:-1 tvg-id="FenFolk" tvg-name="FenFolk" tvg-shift="" radio="" tvg-logo="fenfolk.png" group-title="",Фен Фолк
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44685
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-shift="" radio="" tvg-logo="fox.png" group-title="",FOX
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28213
+
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOXLife" tvg-shift="" radio="" tvg-logo="foxlife.png" group-title="",FOX Life
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28212
+
+#EXTINF:-1 tvg-id="FOXCrime" tvg-name="FOXCrime" tvg-shift="" radio="" tvg-logo="foxcrime.png" group-title="",FOX Crime
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28211
+
+#EXTINF:-1 tvg-id="FPlus" tvg-name="FPlus" tvg-shift="" radio="" tvg-logo="fplus.png" group-title="",F+
+
+
+
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="FashionTV" tvg-shift="" radio="" tvg-logo="fashiontv.png" group-title="",Fashion TV
+
+
+
+#EXTINF:-1 tvg-id="FoodNetworkHD" tvg-name="FoodNetworkHD" tvg-shift="" radio="" tvg-logo="foodnetworkhd.png" group-title="",Food Network HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44172
+
+#EXTINF:-1 tvg-id="FilmBox" tvg-name="FilmBox" tvg-shift="" radio="" tvg-logo="filmbox.png" group-title="",FilmBox
+
+
+
+#EXTINF:-1 tvg-id="FilmBoXtraHD" tvg-name="FilmBoXtraHD" tvg-shift="" radio="" tvg-logo="filmboxtrahd.png" group-title="",FilmBox Extra HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11139
+
+#EXTINF:-1 tvg-id="FilmBoxStars" tvg-name="FilmBoxStars" tvg-shift="" radio="" tvg-logo="filmboxstars.png" group-title="",FilmBox Stars
+
+
+
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-shift="" radio="" tvg-logo="fightbox.png" group-title="",FightBox
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44171
+
+#EXTINF:-1 tvg-id="FMPlus" tvg-name="FMPlus" tvg-shift="" radio="" tvg-logo="fmplus.png" group-title="",Радио FM+
+
+
+
+#EXTINF:-1 tvg-id="RadioFresh" tvg-name="RadioFresh" tvg-shift="" radio="" tvg-logo="radiofresh.png" group-title="",Радио Fresh!
+
+
+
+#EXTINF:-1 tvg-id="GINXTV" tvg-name="GINXTV" tvg-shift="" radio="" tvg-logo="ginx.png" group-title="",GINX TV
+
+
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-shift="" radio="" tvg-logo="history.png" group-title="",History
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44175
+
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-shift="" radio="" tvg-logo="h2.png" group-title="",H2
+
+
+
+#EXTINF:-1 tvg-id="HobbyTV" tvg-name="HobbyTV" tvg-shift="" radio="" tvg-logo="hobbytv.png" group-title="",Хоби ТВ
+
+
+
+#EXTINF:-1 tvg-id="HobbyTVHD" tvg-name="HobbyTVHD" tvg-shift="" radio="" tvg-logo="hobbytvhd.png" group-title="",Хоби ТВ HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11140
+
+#EXTINF:-1 tvg-id="HobbyLovHD" tvg-name="HobbyLovHD" tvg-shift="" radio="" tvg-logo="hobbylovhd.png" group-title="",Хоби Лов HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11138
+
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" tvg-shift="" radio="" tvg-logo="hbohd.png" group-title="",HBO
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11150
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-shift="" radio="" tvg-logo="hbo2.png" group-title="",HBO2
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44173
+
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO3" tvg-shift="" radio="" tvg-logo="hbo3.png" group-title="",HBO3
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44174
+
+#EXTINF:-1 tvg-id="HustlerTV" tvg-name="HustlerTV" tvg-shift="" radio="" tvg-logo="hustlertv.png" group-title="",Hustler TV Europe HD
+
+
+
+#EXTINF:-1 tvg-id="HitMix" tvg-name="HitMix" tvg-shift="" radio="" tvg-logo="hitmix.png" group-title="",Hit Mix
+
+
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-shift="" radio="" tvg-logo="hgtv.png" group-title="",HGTV {Европейски регион?}
+
+
+
+#EXTINF:-1 tvg-id="HomeMall" tvg-name="HomeMall" tvg-shift="" radio="" tvg-logo="homemall.png" group-title="",HomeMall TV
+
+https://streamer104.neterra.tv/n1tv/homemall.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeOne" tvg-name="HomeOne" tvg-shift="" radio="" tvg-logo="homeone.png" group-title="",HomeOne TV
+
+https://streamer104.neterra.tv/n1tv/n1tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-shift="" radio="" tvg-logo="id.png" group-title="",Investigation Discovery Pan Regional
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/27019
+
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-shift="" radio="" tvg-logo="jimjam.png" group-title="",JimJam
+
+
+
+#EXTINF:-1 tvg-id="JazzFM" tvg-name="JazzFM" tvg-shift="" radio="" tvg-logo="jazzfm.png" group-title="",Jazz FM
+
+
+
+#EXTINF:-1 tvg-id="Kanal0" tvg-name="Kanal0" tvg-shift="" radio="" tvg-logo="kanal0.png" group-title="",Канал 0
+
+
+
+#EXTINF:-1 tvg-id="Kiss13" tvg-name="Kiss13" tvg-shift="" radio="" tvg-logo="kiss13.png" group-title="",Кис 13
+
+
+
+#EXTINF:-1 tvg-id="KinoNova" tvg-name="KinoNova" tvg-shift="" radio="" tvg-logo="kinonova.png" group-title="",KinoNova
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11142
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-shift="" radio="" tvg-logo="lovenature.png" group-title="",Love Nature
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11137
+
+#EXTINF:-1 tvg-id="MagicTV" tvg-name="MagicTV" tvg-shift="" radio="" tvg-logo="magictv.png" group-title="",Magic ТВ
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11143
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-shift="" radio="" tvg-logo="mtv.png" group-title="",MTV
+
+
+
+#EXTINF:-1 tvg-id="MTV80s" tvg-name="MTV80s" tvg-shift="" radio="" tvg-logo="mtv80s.png" group-title="",MTV 80s
+
+
+
+#EXTINF:-1 tvg-id="MTV90s" tvg-name="MTV90s" tvg-shift="" radio="" tvg-logo="mtv90s.png" group-title="",MTV 90s
+
+
+
+#EXTINF:-1 tvg-id="MTV00s" tvg-name="MTV00s" tvg-shift="" radio="" tvg-logo="mtv00s.png" group-title="",MTV 00s
+
+
+
+#EXTINF:-1 tvg-id="MTVHits" tvg-name="MTVHits" tvg-shift="" radio="" tvg-logo="mtvhits.png" group-title="",MTV Hits
+
+
+
+#EXTINF:-1 tvg-id="MTVLiveHD" tvg-name="MTVLiveHD" tvg-shift="" radio="" tvg-logo="mtvlivehd.png" group-title="",MTV Live HD
+
+
+
+#EXTINF:-1 tvg-id="MyZen" tvg-name="MyZen" tvg-shift="" radio="" tvg-logo="myzen.png" group-title="",MyZen
+
+
+
+#EXTINF:-1 tvg-id="music" tvg-name="music" tvg-shift="" radio="" tvg-logo="music.png" group-title="",Музикален канал (универсално EPG)
+
+
+
+#EXTINF:-1 tvg-id="MovieSTAR" tvg-name="MovieSTAR" tvg-shift="" radio="" tvg-logo="moviestar.png" group-title="",MovieSTAR
+
+
+
+#EXTINF:-1 tvg-id="MMTV" tvg-name="MMTV" tvg-shift="" radio="" tvg-logo="mmtv.png" group-title="",MMTV
+
+
+
+#EXTINF:-1 tvg-id="MAXSport1" tvg-name="MAXSport1" tvg-shift="" radio="" tvg-logo="maxsport1.png" group-title="",МAX Sport 1
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/23442
+
+#EXTINF:-1 tvg-id="MAXSport2" tvg-name="MAXSport2" tvg-shift="" radio="" tvg-logo="maxsport2.png" group-title="",МAX Sport 2
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/23443
+
+#EXTINF:-1 tvg-id="MAXSport3" tvg-name="MAXSport3" tvg-shift="" radio="" tvg-logo="maxsport3.png" group-title="",МAX Sport 3
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/26756
+
+#EXTINF:-1 tvg-id="MAXSport4" tvg-name="MAXSport4" tvg-shift="" radio="" tvg-logo="maxsport4.png" group-title="",МAX Sport 4
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28547
+
+#EXTINF:-1 tvg-id="MagicFM" tvg-name="MagicFM" tvg-shift="" radio="" tvg-logo="magicfm.png" group-title="",MagicFM
+
+
+
+#EXTINF:-1 tvg-id="MUVitv" tvg-name="MUVitv" tvg-shift="" radio="" tvg-logo="muvitv.png" group-title="",MU-Vi tv
+
+
+
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-shift="" radio="" tvg-logo="mezzo.png" group-title="",Mezzo
+
+
+
+#EXTINF:-1 tvg-id="mezzolivehd" tvg-name="mezzolivehd" tvg-shift="" radio="" tvg-logo="mezzolivehd.png" group-title="",Mezzo Live HD
+
+
+
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="NovaSport" tvg-shift="" radio="" tvg-logo="novasport.png" group-title="",Nova Sport
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11144
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-shift="" radio="" tvg-logo="natgeo.png" group-title="",National Geographic Channel
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/28207
+
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeoWild" tvg-shift="" radio="" tvg-logo="natgeowild.png" group-title="",National Geographic Wild
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11280
+
+#EXTINF:-1 tvg-id="NickJr" tvg-name="NickJr" tvg-shift="" radio="" tvg-logo="nickjr.png" group-title="",Nickelodeon Junior Bulgaria
+
+
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-shift="" radio="" tvg-logo="nickelodeon.png" group-title="",Nickelodeon Bulgaria
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44683
+
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-shift="" radio="" tvg-logo="nicktoons.png" group-title="",NickToons Commercial Poland/Bulgaria
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44682
+
+#EXTINF:-1 tvg-id="news" tvg-name="news" tvg-shift="" radio="" tvg-logo="news.png" group-title="",Новинарски канал (универсално EPG)
+
+
+
+#EXTINF:-1 tvg-id="NJoy" tvg-name="NJoy" tvg-shift="" radio="" tvg-logo="njoy.png" group-title="",Радио N-Joy
+
+
+
+#EXTINF:-1 tvg-id="RadioNova" tvg-name="RadioNova" tvg-shift="" radio="" tvg-logo="radionova.png" group-title="",Радио Nova
+
+
+
+#EXTINF:-1 tvg-id="Nostalgia" tvg-name="Nostalgia" tvg-shift="" radio="" tvg-logo="nostalgia.png" group-title="",Носталгия
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PerviyKanal" tvg-shift="PerviyKanal" radio="" tvg-logo="perviykanal.png" group-title="",Первай канал (ОРТ)
+
+
+
+#EXTINF:-1 tvg-id="PlanetaFolk" tvg-name="PlanetaFolk" tvg-shift="" radio="" tvg-logo="planetafolk.png" group-title="",Планета Фолк
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44688
+
+#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-shift="" radio="" tvg-logo="planeta.png" group-title="",Планета
+
+
+
+#EXTINF:-1 tvg-id="Planeta4k" tvg-name="Planeta4k" tvg-shift="" radio="" tvg-logo="planeta4k.png" group-title="",Планета 4K
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11147
+
+#EXTINF:-1 tvg-id="PVTV" tvg-name="PVTV" tvg-shift="" radio="" tvg-logo="pvtv.png" group-title="",PVTV (The Fishing and Hunting Channel)
+
+
+
+#EXTINF:-1 tvg-id="Trakiq" tvg-name="Trakiq" tvg-shift="" radio="" tvg-logo="potv.png" group-title="",Пловдивска Обществена Телевизия Тракия (ПОТВ)
+
+
+
+#EXTINF:-1 tvg-id="porn" tvg-name="porn" tvg-shift="" radio="" tvg-logo="18plus.png" group-title="",Порнографски канал (универсално EPG)
+
+
+
+#EXTINF:-1 tvg-id="PlayboyTVEurope" tvg-name="PlayboyTVEurope" tvg-shift="" radio="" tvg-logo="playboytv.png" group-title="",Playboy TV Europe
+
+
+
+#EXTINF:-1 tvg-id="PrivateTVEurope" tvg-name="PrivateTVEurope" tvg-shift="" radio="" tvg-logo="privatetv.png" group-title="",Private TV Europe
+
+
+
+#EXTINF:-1 tvg-id="PickBoxTV" tvg-name="PickBoxTV" tvg-shift="" radio="" tvg-logo="pickboxtv.png" group-title="",Pickbox TV
+
+
+
+#EXTINF:-1 tvg-id="RING" tvg-name="RING" tvg-shift="" radio="" tvg-logo="ring.png" group-title="",RING
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44178
+
+#EXTINF:-1 tvg-id="Rimeks" tvg-name="Rimeks" tvg-shift="" radio="" tvg-logo="rimeks.png" group-title="",Римекс ТВ
+
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+
+#EXTINF:-1 tvg-id="Rodina" tvg-name="Rodina" tvg-shift="" radio="" tvg-logo="rodina.png" group-title="",Родина ТВ
+
+
+
+#EXTINF:-1 tvg-id="Redlight" tvg-name="Redlight" tvg-shift="" radio="" tvg-logo="redlight.png" group-title="",Redlight HD
+
+
+
+#EXTINF:-1 tvg-id="Skat" tvg-name="Skat" tvg-shift="" radio="" tvg-logo="skat.png" group-title="",Скат ТВ
+
+
+
+#EXTINF:-1 tvg-id="SportPlusHD" tvg-name="SportPlusHD" tvg-shift="" radio="" tvg-logo="filmplushd.png" group-title="",Sport+ HD
+
+
+
+#EXTINF:-1 tvg-id="Shumen" tvg-name="Shumen" tvg-shift="" radio="" tvg-logo="tvshumen.png" group-title="",ТВ Шумен
+
+
+
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance" tvg-shift="" radio="" tvg-logo="sundance.png" group-title="",Sundance Pan Euro Romania
+
+
+
+#EXTINF:-1 tvg-id="TVSTZ" tvg-name="TVSTZ" tvg-shift="" radio="" tvg-logo="tvstz.png" group-title="",Телевизия Стара Загора
+
+
+
+#EXTINF:-1 tvg-id="SuperToons" tvg-name="SuperToons" tvg-shift="" radio="" tvg-logo="supertoons.png" group-title="",SUPER TOONS
+
+
+
+#EXTINF:-1 tvg-id="StingrayClassica" tvg-name="StingrayClassica" tvg-shift="" radio="" tvg-logo="stingrayclassica.png" group-title="",Stingray Classica
+
+
+
+#EXTINF:-1 tvg-id="StingrayDJAZZ" tvg-name="StingrayDJAZZ" tvg-shift="" radio="" tvg-logo="stingraydjazz.png" group-title="",Stingray DJAZZ
+
+
+
+#EXTINF:-1 tvg-id="StingrayiConcerts" tvg-name="StingrayiConcerts" tvg-shift="" radio="" tvg-logo="stingrayiconcerts.png" group-title="",Stingray iConcerts
+
+
+
+#EXTINF:-1 tvg-id="TheVoice" tvg-name="TheVoice" tvg-shift="" radio="" tvg-logo="thevoice.png" group-title="",The Voice
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11151
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-shift="" radio="" tvg-logo="tv1.png" group-title="",TV1
+
+
+
+#EXTINF:-1 tvg-id="Travel" tvg-name="Travel" tvg-shift="" radio="" tvg-logo="travel.png" group-title="",Травъл ТВ
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/30026
+
+#EXTINF:-1 tvg-id="thisisbg" tvg-name="thisisbg" tvg-shift="" radio="" tvg-logo="thisisbg.png" group-title="",This is Bulgaria HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44180
+
+#EXTINF:-1 tvg-id="TVT" tvg-name="TVT" tvg-shift="" radio="" tvg-logo="tvt.png" group-title="",ТВТ Туризъм
+
+
+
+#EXTINF:-1 tvg-id="TiankovFolk" tvg-name="TiankovFolk" tvg-shift="" radio="" tvg-logo="tiankovfolk.png" group-title="",Тянков Фолк ТВ
+
+
+
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TraceSportStars" tvg-shift="" radio="" tvg-logo="tracesportstars.png" group-title="",Trace Sport Stars
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44181
+
+#EXTINF:-1 tvg-id="TVPlus" tvg-name="TVPlus" tvg-shift="" radio="" tvg-logo="tvplus.png" group-title="",TV+
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/11152
+
+#EXTINF:-1 tvg-id="TV999" tvg-name="TV999" tvg-shift="" radio="" tvg-logo="tv999.png" group-title="Политематичен",tv999
+
+
+
+#EXTINF:-1 tvg-id="TV1000" tvg-name="TV1000" tvg-shift="" radio="" tvg-logo="tv1000.png" group-title="",Viasat TV1000
+
+
+
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="TravelChannel" tvg-shift="" radio="" tvg-logo="travelchannel.png" group-title="",Travel Channel EMEA
+
+
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="tlc.png" group-title="",TLC Romania/Bulgaria
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/27133
+
+#EXTINF:-1 tvg-id="Telekabel" tvg-name="Telekabel" tvg-shift="" radio="" tvg-logo="telekabel.png" group-title="",Телекабел
+
+
+
+#EXTINF:-1 tvg-id="TheWorld" tvg-name="TheWorld" tvg-shift="" radio="" tvg-logo="theworld.png" group-title="",The World
+
+
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-shift="" radio="" tvg-logo="tvn.png" group-title="",TVN (TV Networx BG)
+
+https://play.tvn.bg/TVNweb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TangraMegaRock" tvg-name="TangraMegaRock" tvg-shift="" radio="" tvg-logo="tangramegarock.png" group-title="",Радио Тангра Мега Рок
+
+
+
+#EXTINF:-1 tvg-id="TDC" tvg-name="TDC" tvg-shift="" radio="" tvg-logo="tdc.png" group-title="",Timeless Drama Channel
+
+
+
+#EXTINF:-1 tvg-id="ViasatHD" tvg-name="ViasatHD" tvg-shift="" radio="" tvg-logo="viasathd.png" group-title="",Viasat Nature & History HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44687
+
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-name="ViasatExplorer" tvg-shift="" radio="" tvg-logo="viasatexplorer.png" group-title="",Viasat Explorer
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44686
+
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="ViasatHistory" tvg-shift="" radio="" tvg-logo="viasathistory.png" group-title="",Viasat History
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44176
+
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="ViasatNature" tvg-shift="" radio="" tvg-logo="viasatnature.png" group-title="",Viasat Nature
+
+
+
+#EXTINF:-1 tvg-id="VIVACOMArena" tvg-name="VIVACOMArena" tvg-shift="" radio="" tvg-logo="vivacomarena.png" group-title="",VIVACOM Arena
+
+http://94.236.145.205:8000/play/a00q
+
+#EXTINF:-1 tvg-id="Vratza" tvg-name="Vratza" tvg-shift="" radio="" tvg-logo="vratza.png" group-title="",Враца ТВ
+
+
+
+#EXTINF:-1 tvg-id="VTK" tvg-name="VTK" tvg-shift="" radio="" tvg-logo="vtk.png" group-title="",Военен ТВ Канал
+
+
+
+#EXTINF:-1 tvg-id="VoyoCinema" tvg-name="VoyoCinema" tvg-shift="" radio="" tvg-logo="voyo.png" group-title="",Voyo Cinema
+
+https://en2.sof.btv.bg/60966150/60966150_ios.smil/chunklist_w1630879159_b800000.m3u8?eyJtZWQiOjYwOTY2MTUwLCJsaWMiOiJhN2QxMjg2MTA1MGIzOTJhMWE2NDI4NDNjNzgxMGZjNSIsInByb2QiOjQ0MzgxLCJkZXYiOiIyMzliMzUwY2RmZDVhYjU5MTQ4MDdmOTQ4MjgyNTlmZiIsImFpZCI6IiJ9
+
+#EXTINF:-1 tvg-id="TVVidin" tvg-name="TVVidin" tvg-shift="" radio="" tvg-logo="tvv.png" group-title="",Телевизия Видин
+
+
+
+#EXTINF:-1 tvg-id="WorldFashionChannel" tvg-name="WorldFashionChannel" tvg-shift="" radio="" tvg-logo="worldfashionchannel.png" group-title="",World Fashion Channel
+
+
+
+#EXTINF:-1 tvg-id="wness" tvg-name="wness" tvg-shift="" radio="" tvg-logo="wness.png" group-title="",wness tv
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/23948
+
+#EXTINF:-1 tvg-id="ZRock" tvg-name="ZRock" tvg-shift="" radio="" tvg-logo="zrock.png" group-title="",Радио Z-Rock
+
+
+
+#EXTINF:-1 tvg-id="Ribalka" tvg-name="Ribalka" tvg-shift="" radio="" tvg-logo="ribalka.png" group-title="",Охота и Рибалка
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocko" tvg-shift="Ocko" radio="" tvg-logo="ocko.png" group-title="",Ocko
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OckoExpres" tvg-shift="OckoExpres" radio="" tvg-logo="ockoexpres.png" group-title="",Ocko Expres
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OckoGold" tvg-shift="OckoGold" radio="" tvg-logo="ockogold.png" group-title="",Ocko Gold
+
+
+
+#EXTINF:-1 tvg-id="DeutscheWelle" tvg-name="DeutscheWelle" tvg-shift="" radio="" tvg-logo="deutschewelle.png" group-title="",Deutsche Welle DE
+
+
+
+#EXTINF:-1 tvg-id="ArirangTV" tvg-name="ArirangTV" tvg-shift="" radio="" tvg-logo="arirangtv.png" group-title="",Arirang TV KO
+
+
+
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBSWorld" tvg-shift="" radio="" tvg-logo="kbsworld.png" group-title="",KBS World KO
+
+
+
+#EXTINF:-1 tvg-id="RussiaToday" tvg-name="RussiaToday" tvg-shift="" radio="" tvg-logo="russiatoday.png" group-title="",Russia Today RU
+
+
+
+#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-shift="" radio="" tvg-logo="rtdoc.png" group-title="",RT Documentary RU
+
+
+
+#EXTINF:-1 tvg-id="CCTVNews" tvg-name="CCTVNews" tvg-shift="" radio="" tvg-logo="cctvnews.png" group-title="",CCTV News
+
+
+
+#EXTINF:-1 tvg-id="MAD" tvg-name="MAD" tvg-shift="" radio="" tvg-logo="madtv.png" group-title="",MAD TV Гърция
+
+http://31.177.62.174:8001/play/s65
+
+#EXTINF:-1 tvg-id="FilmboxArthouseHD" tvg-name="FilmboxArthouseHD" tvg-shift="" radio="" tvg-logo="filmboxarthouse.png" group-title="",Filmbox Arthouse HD
+
+
+
+#EXTINF:-1 tvg-id="360TuneBoxHD" tvg-name="360TuneBoxHD" tvg-shift="" radio="" tvg-logo="360tuneboxhd.png" group-title="",360 TuneBox HD
+
+
+
+#EXTINF:-1 tvg-id="FastnFunBoxHD" tvg-name="FastnFunBoxHD" tvg-shift="" radio="" tvg-logo="fastandfunbox.png" group-title="",Fast'n Fun Box HD
+
+
+
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-shift="" radio="" tvg-logo="fashionbox.png" group-title="",Fashion Box HD
+
+
+
+#EXTINF:-1 tvg-id="BBCEarthRO" tvg-name="BBCEarthRO" tvg-shift="" radio="" tvg-logo="bbcearth.png" group-title="",BBC Earth RO
+
+
+
+#EXTINF:-1 tvg-id="SovSec" tvg-name="SovSec" tvg-shift="" radio="" tvg-logo="sovsec.png" group-title="",Съвършено Секретно
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MusicBoxTV" tvg-shift="MusicBoxTV" radio="" tvg-logo="musicboxtv.png" group-title="",Music Box TV
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MusicBoxRU" tvg-shift="MusicBoxRU" radio="" tvg-logo="musicboxru.png" group-title="",Music Box Russia
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MusicBoxUA" tvg-shift="MusicBoxUA" radio="" tvg-logo="musicboxua.png" group-title="",Music Box Ukraina
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RUMTV" tvg-shift="RUMTV" radio="" tvg-logo="rumtv.png" group-title="",MTV Russia
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BridgeTVRU" tvg-shift="BridgeTVRU" radio="" tvg-logo="bridgetv.png" group-title="",Bridge TV Russia
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BridgeTVRuskiyHitRU" tvg-shift="BridgeTVRuskiyHitRU" radio="" tvg-logo="bridgetv.png" group-title="",Bridge TV Русский Хит
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1HD" tvg-shift="1HD" radio="" tvg-logo="1hd.png" group-title="",1HD
+
+
+
+#EXTINF:-1 tvg-id="FashionOneHD" tvg-name="FashionOneHD" tvg-shift="" radio="" tvg-logo="fashiononehd.png" group-title="",Fashion One HD
+
+
+
+#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-shift="" radio="" tvg-logo="e4.png" group-title="",E4
+
+
+
+#EXTINF:-1 tvg-id="BBC1" tvg-name="BBC1" tvg-shift="" radio="" tvg-logo="bbc1.png" group-title="",BBC1
+
+
+
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-shift="" radio="" tvg-logo="cbbc.png" group-title="",CBBC
+
+
+
+#EXTINF:-1 tvg-id="CBSRealityUK" tvg-name="CBSRealityUK" tvg-shift="" radio="" tvg-logo="cbsreality.png" group-title="",CBS Reality UK
+
+
+
+#EXTINF:-1 tvg-id="CBSDramaUK" tvg-name="CBSDramaUK" tvg-shift="" radio="" tvg-logo="cbsdrama.png" group-title="",CBS Drama UK
+
+
+
+#EXTINF:-1 tvg-id="SyfyUK" tvg-name="SyfyUK" tvg-shift="" radio="" tvg-logo="syfy.png" group-title="",Syfy UK
+
+
+
+#EXTINF:-1 tvg-id="SyfyME" tvg-name="SyfyME" tvg-shift="" radio="" tvg-logo="syfy.png" group-title="",Syfy ME (Middle East
+
+
+
+#EXTINF:-1 tvg-id="DIVARomania" tvg-name="DIVARomania" tvg-shift="" radio="" tvg-logo="divaromania.png" group-title="",DIVA Romania
+
+
+
+#EXTINF:-1 tvg-id="ZDFInfoDE" tvg-name="ZDFInfoDE" tvg-shift="" radio="" tvg-logo="zdf-info.png" group-title="",ZDF Info DE
+
+
+
+#EXTINF:-1 tvg-id="ZDFNeoDE" tvg-name="ZDFNeoDE" tvg-shift="" radio="" tvg-logo="zdf-neo.png" group-title="",ZDF Neo DE
+
+
+
+#EXTINF:-1 tvg-id="SyfyDE" tvg-name="SyfyDE" tvg-shift="" radio="" tvg-logo="syfy.png" group-title="",Syfy DE
+
+
+
+#EXTINF:-1 tvg-id="Sky1DE" tvg-name="Sky1DE" tvg-shift="" radio="" tvg-logo="sky1.png" group-title="",Sky 1 DE
+
+
+
+#EXTINF:-1 tvg-id="SkyAtlanticHDDE" tvg-name="SkyAtlanticHDDE" tvg-shift="" radio="" tvg-logo="skyatlantichd.png" group-title="",Sky Atlantic HD DE
+
+
+
+#EXTINF:-1 tvg-id="SkyHitsDE" tvg-name="SkyHitsDE" tvg-shift="" radio="" tvg-logo="skyhits.png" group-title="",Sky Hits DE
+
+
+
+#EXTINF:-1 tvg-id="SkyFamilyDE" tvg-name="SkyFamilyDE" tvg-shift="" radio="" tvg-logo="skycinemafamily.png" group-title="",Sky Family DE
+
+
+
+#EXTINF:-1 tvg-id="SkyActionDE" tvg-name="SkyActionDE" tvg-shift="" radio="" tvg-logo="skyaction.png" group-title="",Sky Action DE
+
+
+
+#EXTINF:-1 tvg-id="SkyCinemaDE" tvg-name="SkyCinemaDE" tvg-shift="" radio="" tvg-logo="skycinema.png" group-title="",Sky Cinema DE
+
+
+
+#EXTINF:-1 tvg-id="NatGeoHDDE" tvg-name="NatGeoHDDE" tvg-shift="" radio="" tvg-logo="natgeo.png" group-title="",National Geographic HD DE
+
+
+
+#EXTINF:-1 tvg-id="NATGEOWILDDE" tvg-name="NATGEOWILDDE" tvg-shift="" radio="" tvg-logo="natgeowild.png" group-title="",National Geographic Wild DE
+
+
+
+#EXTINF:-1 tvg-id="FixFoxy" tvg-name="FixFoxy" tvg-shift="" radio="" tvg-logo="fixfoxy.png" group-title="",Fix & Foxy
+
+
+
+#EXTINF:-1 tvg-id="AutoMotorSport" tvg-name="AutoMotorSport" tvg-shift="" radio="" tvg-logo="automotorsport.png" group-title="",Auto Motor Sport
+
+
+
+#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-shift="" radio="" tvg-logo="nhkworld.png" group-title="",NHK World
+
+
+
+#EXTINF:-1 tvg-id="DeluxeMusicDE" tvg-name="DeluxeMusicDE" tvg-shift="" radio="" tvg-logo="deluxemusic.png" group-title="",Deluxe Music DE
+
+
+
+#EXTINF:-1 tvg-id="JukeBoxDE" tvg-name="JukeBoxDE" tvg-shift="" radio="" tvg-logo="jukebox.png" group-title="",JukeBox DE
+
+
+
+#EXTINF:-1 tvg-id="RCKTVDE" tvg-name="RCKTVDE" tvg-shift="" radio="" tvg-logo="rcktv.png" group-title="",RCK TV DE
+
+
+
+#EXTINF:-1 tvg-id="TravelXP" tvg-name="TravelXP" tvg-shift="" radio="" tvg-logo="travelxp.png" group-title="",Travel XP 4k
+
+
+
+#EXTINF:-1 tvg-id="AlJazeera" tvg-name="AlJazeera" tvg-shift="" radio="" tvg-logo="aljazeera.png" group-title="",Al Jazeera
+
+
+
+#EXTINF:-1 tvg-id="MoreMaxUS" tvg-name="MoreMaxUS" tvg-shift="" radio="" tvg-logo="cinemax.png" group-title="",Cinemax More Max US East
+
+
+
+#EXTINF:-1 tvg-id="ActionMaxUS" tvg-name="ActionMaxUS" tvg-shift="" radio="" tvg-logo="cinemax.png" group-title="",Cinemax Action Max US East
+
+
+
+#EXTINF:-1 tvg-id="ThrillerMaxUS" tvg-name="ThrillerMaxUS" tvg-shift="" radio="" tvg-logo="cinemax.png" group-title="",Cinemax Thriller Max US East
+
+
+
+#EXTINF:-1 tvg-id="MovieMaxUS" tvg-name="MovieMaxUS" tvg-shift="" radio="" tvg-logo="cinemax.png" group-title="",Cinemax Movie Max US East
+
+
+
+#EXTINF:-1 tvg-id="OuterMaxUS" tvg-name="OuterMaxUS" tvg-shift="" radio="" tvg-logo="cinemax.png" group-title="",Cinemax Outer Max US East
+
+
+
+#EXTINF:-1 tvg-id="ChasseAndPecheFR" tvg-name="ChasseAndPecheFR" tvg-shift="" radio="" tvg-logo="chasseandpeche.png" group-title="",Chasse And Peche FR
+
+
+
+#EXTINF:-1 tvg-id="EurochannelFR" tvg-name="EurochannelFR" tvg-shift="" radio="" tvg-logo="eurochannel.png" group-title="",Eurochannel FR
+
+
+
+#EXTINF:-1 tvg-id="GameToon" tvg-name="GameToon" tvg-shift="" radio="" tvg-logo="gametoon.png" group-title="",GameToon
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",automotorsport
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44165
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Epic Drama 
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44170
+
+#EXTINF:-1 tvg-id="OutdoorChannel" tvg-name="Outdoor Channel FHD" tvg-shift="" radio="" tvg-logo="" group-title="",Outdoor Channel FHD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44177
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Wild TV HD
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/44182
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LOVE Nature 4k" tvg-shift="" radio="" tvg-logo="" group-title="",LOVE Nature 4k
+
+http://213.183.48.144:8181/channel/n459b047a/index.m3u8?q=1628345342610
+
+#EXTINF:-1 tvg-id="DiscoveryUltra" tvg-name="Discovery Ultra 4k" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Ultra 4k
+
+http://213.183.48.144:8181/channel/38be5f01/index.m3u8?q=1628345342610
+
+#EXTINF:-1 tvg-id="Home " tvg-name="Home 4k" tvg-shift="" radio="" tvg-logo="" group-title="",Home 4k
+
+http://213.183.48.144:8181/channel/n4e8f92ed/index.m3u8?q=1628345342610
+
+#EXTINF:-1 tvg-id="UltraCinema " tvg-name="Ultra Hd Cinema 4k" tvg-shift="" radio="" tvg-logo="" group-title="",Ultra Hd Cinema 4k
+
+http://213.183.48.144:8181/channel/n639b2167/index.m3u8?q=1628345342610
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 4K RU" tvg-shift="" radio="" tvg-logo="" group-title="",Eurosport 4K
+
+http://tv.rapidiptv.tvip.xyz:80/i1n3xIyydx/kQLV8n322/57967
+
+#EXTINF:-1 tvg-id="DiemaSport" tvg-name="Diema Sport 1 HD" tvg-shift="" radio="" tvg-logo="" group-title="",Diema Sport 1 HD
+
+https://e117-ts.cdn.bg/nbg/diema-live/in_diema1_r5411144/live/playlist_dvr_range-1628406000-now.m3u8
+
+#EXTINF:-1 tvg-id="DiemaSport2" tvg-name="Diema Sport 2 HD" tvg-shift="" radio="" tvg-logo="" group-title="",Diema Sport 2 HD
+
+https://e117-ts.cdn.bg/nbg/diema-live/in_diema2_r541145/live/playlist_dvr_range-1628406000-now.m3u8
+
+#EXTINF:-1 tvg-id="DiemaSport3" tvg-name="Diema Sport 3 HD" tvg-shift="" radio="" tvg-logo="" group-title="",Diema Sport 3 HD
+
+https://e148-ts.cdn.bg/nbg/diema-live/42315_diema-3/live/playlist_dvr_range-1628406000-now.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",P1 tv
+
+http://81.15.110.54:8180/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-id="DIKAYARYBALKAHD" tvg-name="DIKAYARYBALKAHD" tvg-shift="" radio="" tvg-logo="" group-title="",DIKAYARYBALKAHD
+
+https://a3569457557-s25617.cdn.ngenix.net/mdrm/CH_DIKAYARYBALKAHD/manifest.mpd?profile=web_auto
+
+#EXTINF:-1 tvg-id="movies" tvg-name="movies" tvg-shift="" radio="" tvg-logo="" group-title="",movies
+
+https://edgecastcdnsecure.hbogo.eu/4920167b-74b7-6596-c4d1-78d92e1b27a4_hbo/COMP/67747270_bul_comp_2c177faf-f633-4c86-8594-fefd653b6c81_3400000_v2.ism/manifest
+

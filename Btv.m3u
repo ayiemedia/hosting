@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BTV HD
+https://hls.btv.bg.sof.cmestatic.com/61128011/livestream-0/playlist.m3u8?eyJtZWQiOjYxMTczOTQyLCJsaWMiOiI4M2ZlM2FiMTdjY2FhMDg4MjY2NWYyNDQyMGRiMjhiYiIsInByb2QiOjU3NzQsImRldiI6ImI2NTI3NTgxZmJjNmU3MjgxZTAyZWQxMWU2N2MyZjZiIiwiYWlkIjoiIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BTV int HD
+https://hlsvoyo.voyo.bg.sof.cmestatic.com/61183589/livestream-0/playlist.m3u8?eyJtZWQiOjYxMTgzNTg5LCJsaWMiOiI4M2ZlM2FiMTdjY2FhMDg4MjY2NWYyNDQyMGRiMjhiYiIsInByb2QiOjI0MTk4LCJkZXYiOiJiNjUyNzU4MWZiYzZlNzI4MWUwMmVkMTFlNjdjMmY2YiIsImFpZCI6IiJ9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BTV Cinema HD
+https://hls.btv.bg.sof.cmestatic.com/61173940/61173940_ios.smil/playlist.m3u8?eyJtZWQiOjYxMTczOTQwLCJsaWMiOiI4M2ZlM2FiMTdjY2FhMDg4MjY2NWYyNDQyMGRiMjhiYiIsInByb2QiOjIxNjg5LCJkZXYiOiJiNjUyNzU4MWZiYzZlNzI4MWUwMmVkMTFlNjdjMmY2YiIsImFpZCI6IiJ9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BTV Action HD
+https://hls.btv.bg.sof.cmestatic.com/61173942/61173942_ios.smil/playlist.m3u8?eyJtZWQiOjYxMTczOTQyLCJsaWMiOiI4M2ZlM2FiMTdjY2FhMDg4MjY2NWYyNDQyMGRiMjhiYiIsInByb2QiOjU3NzQsImRldiI6ImI2NTI3NTgxZmJjNmU3MjgxZTAyZWQxMWU2N2MyZjZiIiwiYWlkIjoiIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BTV Comedy HD
+https://hls.btv.bg.sof.cmestatic.com/61173941/61173941_ios.smil/playlist.m3u8?eyJtZWQiOjYxMTczOTQxLCJsaWMiOiI4M2ZlM2FiMTdjY2FhMDg4MjY2NWYyNDQyMGRiMjhiYiIsInByb2QiOjIxNjg4LCJkZXYiOiJiNjUyNzU4MWZiYzZlNzI4MWUwMmVkMTFlNjdjMmY2YiIsImFpZCI6IiJ9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VoYo Cinema HD
+https://hlsvoyo.voyo.bg.sof.cmestatic.com/60966150/60966150_tv.smil/playlist.m3u8?eyJtZWQiOjYxMTczOTQyLCJsaWMiOiI4M2ZlM2FiMTdjY2FhMDg4MjY2NWYyNDQyMGRiMjhiYiIsInByb2QiOjU3NzQsImRldiI6ImI2NTI3NTgxZmJjNmU3MjgxZTAyZWQxMWU2N2MyZjZiIiwiYWlkIjoiIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Ring HD
+https://hls.btv.bg.sof.cmestatic.com/61174045/61174045_ios.smil/playlist.m3u8?eyJtZWQiOjYxMTczOTQyLCJsaWMiOiI4M2ZlM2FiMTdjY2FhMDg4MjY2NWYyNDQyMGRiMjhiYiIsInByb2QiOjU3NzQsImRldiI6ImI2NTI3NTgxZmJjNmU3MjgxZTAyZWQxMWU2N2MyZjZiIiwiYWlkIjoiIn0
