@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -142,6 +143,11 @@
             box-shadow:2px 2px #000;
             color: #fff;
         }
+
+.phone-with-zero::before {
+            content: "_"; /* Use any character you prefer, e.g., _ */
+        }
+
   </style>
 </head>
 <body>
@@ -175,73 +181,79 @@
   <script>
 
         document.getElementById("myForm").addEventListener("submit", function(event) {
-            event.preventDefault();
+    event.preventDefault();
 
-            const B = document.getElementById("B").value;
-            const C = document.getElementById("C").value;
-            const D = document.getElementById("D").value;
-            const E = document.getElementById("E").value;
-            const F = document.getElementById("F").value;
-            const G = document.getElementById("G").value;
-            const H = document.getElementById("H").value;
-            const I = document.getElementById("I").value;
-            const J = document.getElementById("J").value;
-            const K = document.getElementById("K").value;
+    const B = document.getElementById("B").value;
+    const C = document.getElementById("C").value;
+    const D = document.getElementById("D").value;
+    const E = document.getElementById("E").value;
+    const F = document.getElementById("F").value;
+    const G = document.getElementById("G").value;
+    const H = document.getElementById("H").value;
+    const I = document.getElementById("I").value;
+    let J = document.getElementById("J").value;
+    let K = document.getElementById("K").value;
 
-            // Concatenate the form data into a single line
-            const submittedData = `${B}-${C}-${D}-${E}-${F}-${G}-${H}-${I}-${J}-${K}`;
+    // Add the special class to the phone number if it starts with 0
+    if (K.startsWith("0")) {
+        K = '<span class="phone-with-zero">' + K + '</span>';
+    }
 
-            // Display the submitted data in the output box
-            const submittedDataElement = document.createElement("div");
-            submittedDataElement.textContent = submittedData;
-            submittedDataElement.className = "output-result";
+    // Concatenate the form data into a single line
+    const submittedData = `${B}-${C}-${D}-${E}-${F}-${G}-${H}-${I}-${J}-${K}`;
 
-            // Add different classes for each output line to apply different styles
-            submittedDataElement.classList.add("output-line-1");
-            if (submittedData.includes('- -')) {
-                submittedDataElement.classList.add("output-line-2");
-            }
-            if (submittedData.includes('- - -')) {
-                submittedDataElement.classList.add("output-line-3");
-            }
+    // Display the submitted data in the output box
+    const submittedDataElement = document.createElement("div");
+    submittedDataElement.innerHTML = submittedData;
+    submittedDataElement.className = "output-result";
 
-            document.getElementById("submitted-data").appendChild(submittedDataElement);
+    // Add different classes for each output line to apply different styles
+    submittedDataElement.classList.add("output-line-1");
+    if (submittedData.includes('- -')) {
+        submittedDataElement.classList.add("output-line-2");
+    }
+    if (submittedData.includes('- - -')) {
+        submittedDataElement.classList.add("output-line-3");
+    }
 
-            // Check if there are 3 output lines to show the "Copy All" button
-            const outputElements = document.getElementsByClassName("output-result");
-            if (outputElements.length >= 1) {
-                document.getElementById("copy-all-button").style.display = "block";
-            } else {
-                document.getElementById("copy-all-button").style.display = "none";
-            }
+    document.getElementById("submitted-data").appendChild(submittedDataElement);
 
-            // Reset the form for new data entry
-            document.getElementById("myForm").reset();
-        });
+    // Check if there are any output lines to show the "Copy All" button
+    const outputElements = document.getElementsByClassName("output-result");
+    if (outputElements.length > 0) {
+        document.getElementById("copy-all-button").style.display = "block";
+    } else {
+        document.getElementById("copy-all-button").style.display = "none";
+    }
 
-        // Function to copy all output lines to clipboard
-        function copyAll() {
-            const outputElements = document.getElementsByClassName("output-result");
-            let outputText = "";
-            for (let i = 0; i < outputElements.length; i++) {
-                outputText += outputElements[i].textContent + "\n";
-            }
+    // Reset the form for new data entry
+    document.getElementById("myForm").reset();
+});
 
-            const tempInput = document.createElement("textarea");
-            tempInput.value = outputText;
-            document.body.appendChild(tempInput);
-            tempInput.select();
-            document.execCommand("copy");
-            document.body.removeChild(tempInput);
+// Function to copy all output lines to clipboard
+function copyAll() {
+    const outputElements = document.getElementsByClassName("output-result");
+    let outputText = "";
+    for (let i = 0; i < outputElements.length; i++) {
+        outputText += outputElements[i].textContent + "\n";
+    }
 
-            // Change font size to 10px after copying
-            const outputTextElements = document.getElementsByClassName("output-text");
-            for (let i = 0; i < outputTextElements.length; i++) {
-                outputTextElements[i].style.fontSize = "10px";
-            }
+    const tempInput = document.createElement("textarea");
+    tempInput.value = outputText;
+    document.body.appendChild(tempInput);
+    tempInput.select();
+    document.execCommand("copy");
+    document.body.removeChild(tempInput);
 
-            alert("Copied all output to clipboard!");
-        }
+    // Change font size to 10px after copying
+    const outputTextElements = document.getElementsByClassName("output-text");
+    for (let i = 0; i < outputTextElements.length; i++) {
+        outputTextElements[i].style.fontSize = "10px";
+    }
+
+    alert("Copied all output to clipboard!");
+}
+
   </script>
 </body>
 </html>
