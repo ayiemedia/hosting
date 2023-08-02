@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Delimitter</title>
+  <link rel="shortcut icon" type="image/x-icon" href=
+  "https://i.ibb.co/G2CVpgL/Flag-of-Malaysia-vertical.gif">
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1.0">
+  <style>
+        body {
+            background-color: #A93226;
+            color: white;
+            font-weight: bold;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background-color: white;
+            color: black;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+            width: 100%;
+            margin-bottom: 20px;
+            box-shadow: 4px 4px #000;
+        }
+
+        button {
+            background-color: #B41000;
+            color: white;
+            font-weight: bold;
+            width: 100%;
+            display: center;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-size: 25px;
+            box-shadow: 4px 4px #000;
+            text-shadow: 1px 1px yellow;
+        }
+
+        .blank {
+            width: 100%;
+            text-align: center;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-size: 15px;
+            font-weight: bold;
+            background-color: black;
+            display: none;
+        }
+
+        .default {
+            width: 100%;
+            text-align: left;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            box-shadow: 2px 2px #000;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+
+        .output-box {
+            background-color: #0C0A00;
+            color: #cdcdcd;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+            width: 100%;
+            margin-bottom: 20px;
+            text-align: center;
+            box-shadow: 4px 4px #7B241C;
+        }
+
+        /* Add this CSS rule to set font-size to 20px for output */
+        .output-text {
+            font-size: 20px;
+        }
+
+        /* Add this CSS rule for the horizontal line */
+        hr {
+            width: 100%;
+            border: 2px dashed black;
+            box-shadow: 1px 1px lightgray;
+        }
+
+        /* Add this CSS rule for the output div */
+        .output {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Add this CSS rule for the output result */
+        .output-result {
+            padding: 5px;
+            margin: 5px 0;
+            border-radius: 5px;
+            width: 100%;
+        }
+
+        /* Add different background colors and text colors for each output line */
+        .output-line-1 {
+            background-color: blue;
+            color: white;
+        }
+
+        .output-line-2 {
+            background-color: orange;
+            color: black;
+        }
+
+        .output-line-3 {
+            background-color: red;
+            color: white;
+        }
+
+        /* Add this CSS rule for the copy all button */
+        #copy-all-button {
+            display: none;
+            background-color: #0C0A00;
+            margin-top: 10px;
+            padding: 5px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        h2 {
+            text-align:center;
+            text-decoration:overline underline;
+            text-decoration-color:black;
+        }
+        span {
+            background-color: #B41000;
+            border:2px solid black;
+            border-radius:5px;
+            box-shadow:2px 2px #000;
+            color: #fff;
+        }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2><span>_Delimitter_</span></h2>
+    <form action="#" method="post" id="myForm" name="myForm">
+      <input type="text" name="B" id="B" class="default"
+      placeholder="Nama"> <input type="text" name="C" id="C" class=
+      "default" placeholder="No Telefon"> <input type="text" name=
+      "D" id="D" class="blank" value=" "> <input type="text" name=
+      "E" id="E" class="default" placeholder="Alamat"> <input type=
+      "text" name="F" id="F" class="default" placeholder="Aduan">
+      <input type="text" name="G" id="G" class="blank" value=" ">
+      <input type="text" name="H" id="H" class="blank" value=" ">
+      <input type="text" name="I" id="I" class="default"
+      placeholder="Details Aduan"> <input type="text" name="J" id=
+      "J" class="blank" value=" "> <input type="text" name="K" id=
+      "K" class="default" placeholder="Nama Agent"> <button type=
+      "submit" name="submit" value="Submit" id=
+      "submit-button">Submit</button>
+    </form>
+  </div>
+  <hr>
+  <!-- Horizontal line to separate form and output -->
+  <!-- The submitted form data will be displayed here. -->
+  <div class="output-box" id="submitted-data">
+    Output
+  </div><!-- Add a button to copy all output lines -->
+  <button id="copy-all-button" onclick="copyAll()">Copy
+  All</button> 
+  <script>
+
+        document.getElementById("myForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+
+            const B = document.getElementById("B").value;
+            const C = document.getElementById("C").value;
+            const D = document.getElementById("D").value;
+            const E = document.getElementById("E").value;
+            const F = document.getElementById("F").value;
+            const G = document.getElementById("G").value;
+            const H = document.getElementById("H").value;
+            const I = document.getElementById("I").value;
+            const J = document.getElementById("J").value;
+            const K = document.getElementById("K").value;
+
+            // Concatenate the form data into a single line
+            const submittedData = `${B}-${C}-${D}-${E}-${F}-${G}-${H}-${I}-${J}-${K}`;
+
+            // Display the submitted data in the output box
+            const submittedDataElement = document.createElement("div");
+            submittedDataElement.textContent = submittedData;
+            submittedDataElement.className = "output-result";
+
+            // Add different classes for each output line to apply different styles
+            submittedDataElement.classList.add("output-line-1");
+            if (submittedData.includes('- -')) {
+                submittedDataElement.classList.add("output-line-2");
+            }
+            if (submittedData.includes('- - -')) {
+                submittedDataElement.classList.add("output-line-3");
+            }
+
+            document.getElementById("submitted-data").appendChild(submittedDataElement);
+
+            // Check if there are 3 output lines to show the "Copy All" button
+            const outputElements = document.getElementsByClassName("output-result");
+            if (outputElements.length >= 1) {
+                document.getElementById("copy-all-button").style.display = "block";
+            } else {
+                document.getElementById("copy-all-button").style.display = "none";
+            }
+
+            // Reset the form for new data entry
+            document.getElementById("myForm").reset();
+        });
+
+        // Function to copy all output lines to clipboard
+        function copyAll() {
+            const outputElements = document.getElementsByClassName("output-result");
+            let outputText = "";
+            for (let i = 0; i < outputElements.length; i++) {
+                outputText += outputElements[i].textContent + "\n";
+            }
+
+            const tempInput = document.createElement("textarea");
+            tempInput.value = outputText;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+
+            // Change font size to 10px after copying
+            const outputTextElements = document.getElementsByClassName("output-text");
+            for (let i = 0; i < outputTextElements.length; i++) {
+                outputTextElements[i].style.fontSize = "10px";
+            }
+
+            alert("Copied all output to clipboard!");
+        }
+  </script>
+</body>
+</html>
