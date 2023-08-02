@@ -1,13 +1,10 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Delimitter</title>
-  <link rel="shortcut icon" type="image/x-icon" href=
-  "https://i.ibb.co/G2CVpgL/Flag-of-Malaysia-vertical.gif">
-  <meta name="viewport" content=
-  "width=device-width, initial-scale=1.0">
-  <style>
+    <title>Delimitter</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/G2CVpgL/Flag-of-Malaysia-vertical.gif">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
         body {
             background-color: #A93226;
             color: white;
@@ -131,129 +128,166 @@
             border-radius: 5px;
             cursor: pointer;
         }
-        h2 {
-            text-align:center;
-            text-decoration:overline underline;
-            text-decoration-color:black;
+        /* Add this CSS rule for the save to file button */
+        #save-to-file-button {
+            background-color: #B41000;
+            color: white;
+            font-weight: bold;
+            width: 100%;
+            font-size: 25px;
+            box-shadow: 4px 4px #000;
+            text-shadow: 1px 1px yellow;
+            display: none;
         }
+
+        h2 {
+            text-align: center;
+            text-decoration: overline underline;
+            text-decoration-color: black;
+        }
+
         span {
             background-color: #B41000;
-            border:2px solid black;
-            border-radius:5px;
-            box-shadow:2px 2px #000;
+            border: 2px solid black;
+            border-radius: 5px;
+            box-shadow: 2px 2px #000;
             color: #fff;
         }
-
-.phone-with-zero::before {
-            content: "_"; /* Use any character you prefer, e.g., _ */
-        }
-
-  </style>
+    </style>
 </head>
 <body>
-  <div class="container">
-    <h2><span>_Delimitter_</span></h2>
-    <form action="#" method="post" id="myForm" name="myForm">
-      <input type="text" name="B" id="B" class="default"
-      placeholder="Nama"> <input type="text" name="C" id="C" class=
-      "default" placeholder="No Telefon"> <input type="text" name=
-      "D" id="D" class="blank" value=" "> <input type="text" name=
-      "E" id="E" class="default" placeholder="Alamat"> <input type=
-      "text" name="F" id="F" class="default" placeholder="Aduan">
-      <input type="text" name="G" id="G" class="blank" value=" ">
-      <input type="text" name="H" id="H" class="blank" value=" ">
-      <input type="text" name="I" id="I" class="default"
-      placeholder="Details Aduan"> <input type="text" name="J" id=
-      "J" class="blank" value=" "> <input type="text" name="K" id=
-      "K" class="default" placeholder="Nama Agent"> <button type=
-      "submit" name="submit" value="Submit" id=
-      "submit-button">Submit</button>
-    </form>
-  </div>
-  <hr>
-  <!-- Horizontal line to separate form and output -->
-  <!-- The submitted form data will be displayed here. -->
-  <div class="output-box" id="submitted-data">
-    Output
-  </div><!-- Add a button to copy all output lines -->
-  <button id="copy-all-button" onclick="copyAll()">Copy
-  All</button> 
-  <script>
+    <div class="container">
+        <h2><span>_Delimitter_</span></h2>
+        <form action="#" method="post" id="myForm">
+            <input type="text" name="B" id="B" class="default" placeholder="Nama">
+            <input type="text" name="C" id="C" class="default" placeholder="No Telefon">
+            <input type="text" name="D" id="D" class="blank" value=" ">
+            <input type="text" name="E" id="E" class="default" placeholder="Alamat">
+            <input type="text" name="F" id="F" class="default" placeholder="Aduan">
+            <input type="text" name="G" id="G" class="blank" value=" ">
+            <input type="text" name="H" id="H" class="blank" value=" ">
+            <input type="text" name="I" id="I" class="default" placeholder="Details Aduan">
+            <input type="text" name="J" id="J" class="blank" value=" ">
+            <input type="text" name="K" id="K" class="default" placeholder="Nama Agent">
+            <button type="submit" name="submit" value="Submit" id="submit-button">Submit</button>
+        </form>
+    </div>
 
+    <hr> <!-- Horizontal line to separate form and output -->
+
+    <!-- The submitted form data will be displayed here. -->
+    <div class="output-box" id="submitted-data">Output</div>
+
+    <!-- Add a button to copy all output lines -->
+    <button id="copy-all-button">Copy All</button>
+
+    <!-- Add a button to save the output to a file -->
+    <button id="save-to-file-button">Save to File</button>
+
+    <script>
         document.getElementById("myForm").addEventListener("submit", function(event) {
-    event.preventDefault();
+            event.preventDefault();
 
-    const B = document.getElementById("B").value;
-    const C = document.getElementById("C").value;
-    const D = document.getElementById("D").value;
-    const E = document.getElementById("E").value;
-    const F = document.getElementById("F").value;
-    const G = document.getElementById("G").value;
-    const H = document.getElementById("H").value;
-    const I = document.getElementById("I").value;
-    let J = document.getElementById("J").value;
-    let K = document.getElementById("K").value;
+            const B = document.getElementById("B").value;
+            const C = document.getElementById("C").value;
+            const D = document.getElementById("D").value;
+            const E = document.getElementById("E").value;
+            const F = document.getElementById("F").value;
+            const G = document.getElementById("G").value;
+            const H = document.getElementById("H").value;
+            const I = document.getElementById("I").value;
+            const J = document.getElementById("J").value;
+            const K = document.getElementById("K").value;
 
-    // Add the special class to the phone number if it starts with 0
-    if (K.startsWith("0")) {
-        K = '<span class="phone-with-zero">' + K + '</span>';
-    }
+            // Concatenate the form data into a single line
+            const submittedData = `${B}-${C}-${D}-${E}-${F}-${G}-${H}-${I}-${J}-${K}`;
 
-    // Concatenate the form data into a single line
-    const submittedData = `${B}-${C}-${D}-${E}-${F}-${G}-${H}-${I}-${J}-${K}`;
+            // Display the submitted data in the output box
+            const submittedDataElement = document.createElement("div");
+            submittedDataElement.textContent = submittedData;
+            submittedDataElement.className = "output-result";
 
-    // Display the submitted data in the output box
-    const submittedDataElement = document.createElement("div");
-    submittedDataElement.innerHTML = submittedData;
-    submittedDataElement.className = "output-result";
+            // Add different classes for each output line to apply different styles
+            submittedDataElement.classList.add("output-line-1");
+            if (submittedData.includes('- -')) {
+                submittedDataElement.classList.add("output-line-2");
+            }
+            if (submittedData.includes('- - -')) {
+                submittedDataElement.classList.add("output-line-3");
+            }
 
-    // Add different classes for each output line to apply different styles
-    submittedDataElement.classList.add("output-line-1");
-    if (submittedData.includes('- -')) {
-        submittedDataElement.classList.add("output-line-2");
-    }
-    if (submittedData.includes('- - -')) {
-        submittedDataElement.classList.add("output-line-3");
-    }
+            document.getElementById("submitted-data").appendChild(submittedDataElement);
 
-    document.getElementById("submitted-data").appendChild(submittedDataElement);
+            // Check if there are 3 output lines to show the "Copy All" button
+            const outputElements = document.getElementsByClassName("output-result");
+            if (outputElements.length >= 3) {
+                document.getElementById("copy-all-button").style.display = "block";
+            } else {
+                document.getElementById("copy-all-button").style.display = "none";
+            }
 
-    // Check if there are any output lines to show the "Copy All" button
-    const outputElements = document.getElementsByClassName("output-result");
-    if (outputElements.length > 0) {
-        document.getElementById("copy-all-button").style.display = "block";
-    } else {
-        document.getElementById("copy-all-button").style.display = "none";
-    }
+            // Show the "Save to File" button
+            document.getElementById("save-to-file-button").style.display = "block";
 
-    // Reset the form for new data entry
-    document.getElementById("myForm").reset();
-});
+            // Reset the form for new data entry
+            document.getElementById("myForm").reset();
+        });
 
-// Function to copy all output lines to clipboard
-function copyAll() {
-    const outputElements = document.getElementsByClassName("output-result");
-    let outputText = "";
-    for (let i = 0; i < outputElements.length; i++) {
-        outputText += outputElements[i].textContent + "\n";
-    }
+        // Function to copy all output lines to clipboard
+        function copyAll() {
+            const outputElements = document.getElementsByClassName("output-result");
+            let outputText = "";
+            for (let i = 0; i < outputElements.length; i++) {
+                outputText += outputElements[i].textContent + "\n";
+            }
 
-    const tempInput = document.createElement("textarea");
-    tempInput.value = outputText;
-    document.body.appendChild(tempInput);
-    tempInput.select();
-    document.execCommand("copy");
-    document.body.removeChild(tempInput);
+            const tempInput = document.createElement("textarea");
+            tempInput.value = outputText;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
 
-    // Change font size to 10px after copying
-    const outputTextElements = document.getElementsByClassName("output-text");
-    for (let i = 0; i < outputTextElements.length; i++) {
-        outputTextElements[i].style.fontSize = "10px";
-    }
+            // Change font size to 10px after copying
+            const outputTextElements = document.getElementsByClassName("output-text");
+            for (let i = 0; i < outputTextElements.length; i++) {
+                outputTextElements[i].style.fontSize = "10px";
+            }
 
-    alert("Copied all output to clipboard!");
-}
+            alert("Copied all output to clipboard!");
+        }
 
-  </script>
+        // Function to save the output to a file
+        function saveToFile() {
+            const outputElements = document.getElementsByClassName("output-result");
+            let outputText = "";
+            for (let i = 0; i < outputElements.length; i++) {
+                outputText += outputElements[i].textContent + "\n";
+            }
+
+            // Create a new Blob object with the output text
+            const blob = new Blob([outputText], { type: "text/plain" });
+
+            // Create a temporary anchor element to download the file
+            const a = document.createElement("a");
+            a.href = URL.createObjectURL(blob);
+            a.download = "temporary.txt";
+
+            // Append the anchor element to the document
+            document.body.appendChild(a);
+
+            // Click the anchor element to trigger the download
+            a.click();
+
+            // Remove the anchor element from the document
+            document.body.removeChild(a);
+
+            alert("Output saved to temporary.txt");
+        }
+
+        // Add event listeners to the buttons
+        document.getElementById("copy-all-button").addEventListener("click", copyAll);
+        document.getElementById("save-to-file-button").addEventListener("click", saveToFile);
+    </script>
 </body>
 </html>
